@@ -1,0 +1,6 @@
+framework module FtcMobileAds {
+  umbrella header "FtcMobileAds.h"
+
+  export *
+  module * { export * }
+}
